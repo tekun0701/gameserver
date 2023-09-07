@@ -1,8 +1,12 @@
+black
 fastapi
-uvicorn[standard]
-sqlalchemy
-pytest
-requests
-mysqlclient
+httpx>=0.22.0
 isort
 ipython
+mycli
+pymysql
+pytest
+requests
+ruff
+sqlalchemy
+uvicorn[standard]
